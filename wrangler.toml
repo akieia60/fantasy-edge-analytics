@@ -1,0 +1,6 @@
+name = "fantasy-edge-analytics"
+compatibility_date = "2024-09-20"
+
+[assets]
+directory = "."
+not_found_handling = "single-page-application"
